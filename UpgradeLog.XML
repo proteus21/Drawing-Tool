@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AllFoldersandFilesTree">
+</Property><Property Name="Solution File" Value="F:\AllFoldersandFilesTree\AllFoldersandFilesTree\AllFoldersandFilesTree.sln">
+</Property><Property Name="User Options File" Value="F:\AllFoldersandFilesTree\AllFoldersandFilesTree\AllFoldersandFilesTree.suo">
+</Property><Property Name="Date" Value="12 marca 2012">
+</Property><Property Name="Time" Value="08:40">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AllFoldersandFilesTree.sln" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\AllFoldersandFilesTree.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AllFoldersandFilesTree.suo" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\AllFoldersandFilesTree.suo">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="AllFoldersandFilesTree.vbproj" Description="Project file successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\AllFoldersandFilesTree.vbproj">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="AllFoldersandFilesTree.vbproj.user" Description="Project user file successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\AllFoldersandFilesTree.vbproj.user">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="AboutBox1.Designer.vb" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\AboutBox1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="AboutBox1.vb" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\AboutBox1.vb">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="Form1.vb" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="Form1.Designer.vb" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="Module1.vb" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\Module1.vb">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="My Project\Application.Designer.vb" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="PdfManipulation2.vb" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\PdfManipulation2.vb">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="My Project\Application.myapp" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="My Project\Settings.settings" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="Resources\pdf.png" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\Resources\pdf.png">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="AboutBox1.resx" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="Form1.resx" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="My Project\Resources.resx" Description="File successfully backed up as F:\AllFoldersandFilesTree\AllFoldersandFilesTree\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AllFoldersandFilesTree" Source="AllFoldersandFilesTree.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="AllFoldersandFilesTree" Source="AllFoldersandFilesTree.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="AllFoldersandFilesTree.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AllFoldersandFilesTree.sln" Description="Converted">
+</Event></UpgradeLog>
