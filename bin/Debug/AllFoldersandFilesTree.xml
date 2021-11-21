@@ -1,0 +1,280 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AllFoldersandFilesTree
+</name>
+</assembly>
+<members>
+<member name="P:AllFoldersandFilesTree.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AllFoldersandFilesTree.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:AllFoldersandFilesTree.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.#ctor">
+	<remarks/>
+</member><member name="E:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.GetLanguagesCompleted">
+	<remarks/>
+</member><member name="E:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.GetLanguageNamesCompleted">
+	<remarks/>
+</member><member name="E:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.DetectCompleted">
+	<remarks/>
+</member><member name="E:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.TranslateCompleted">
+	<remarks/>
+</member><member name="M:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.GetLanguages(System.String)">
+	<remarks/>
+</member><member name="M:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.GetLanguagesAsync(System.String)">
+	<remarks/>
+</member><member name="M:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.GetLanguagesAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.GetLanguageNames(System.String,System.String)">
+	<remarks/>
+</member><member name="M:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.GetLanguageNamesAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.GetLanguageNamesAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.Detect(System.String,System.String)">
+	<remarks/>
+</member><member name="M:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.DetectAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.DetectAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.Translate(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.TranslateAsync(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.TranslateAsync(System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:AllFoldersandFilesTree.com.microsofttranslator.api.SoapService">
+	<remarks/>
+</member><member name="T:AllFoldersandFilesTree.com.microsofttranslator.api.GetLanguagesCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AllFoldersandFilesTree.com.microsofttranslator.api.GetLanguagesCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AllFoldersandFilesTree.com.microsofttranslator.api.GetLanguagesCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AllFoldersandFilesTree.com.microsofttranslator.api.GetLanguageNamesCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AllFoldersandFilesTree.com.microsofttranslator.api.GetLanguageNamesCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AllFoldersandFilesTree.com.microsofttranslator.api.GetLanguageNamesCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AllFoldersandFilesTree.com.microsofttranslator.api.DetectCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AllFoldersandFilesTree.com.microsofttranslator.api.DetectCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AllFoldersandFilesTree.com.microsofttranslator.api.DetectCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AllFoldersandFilesTree.com.microsofttranslator.api.TranslateCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AllFoldersandFilesTree.com.microsofttranslator.api.TranslateCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AllFoldersandFilesTree.com.microsofttranslator.api.TranslateCompletedEventArgs">
+	<remarks/>
+</member><member name="M:AllFoldersandFilesTree.Module1.ParsePdfText1(System.String,System.Int32,System.Int32)">
+	<summary>
+ Extract the text from pdf pages and return it as a string
+ </summary>
+	<param name="sourcePDF">Full path to the source pdf file</param>
+	<param name="fromPageNum">[Optional] the page number (inclusive) to start text extraction </param>
+	<param name="toPageNum">[Optional] the page number (inclusive) to stop text extraction</param>
+	<returns>A string containing the text extracted from the specified pages</returns>
+	<remarks>If fromPageNum is not specified, text extraction will start from page 1. If
+ toPageNum is not specified, text extraction will end at the last page of the source pdf file.</remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.RemoveRestrictions(System.String,System.String,System.Boolean)">
+	<summary>
+ Remove all resttrictions from a pdf file
+ </summary>
+	<param name="restrictedPdf">The full path to the restricted pdf file</param>
+	<param name="password">Requires only if the restricted pdf is password protected.</param>
+	<param name="saveABackup">If True, the original restricted pdf will be saved as [filename]_BAK.pdf. Else, it will be overwritten.</param>
+	<returns>True if the operation succeeded. False otherwise</returns>
+	<remarks></remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.ParsePdfText(System.String,System.Int32,System.Int32)">
+	<summary>
+ Extract the text from pdf pages and return it as a string
+ </summary>
+	<param name="sourcePDF">Full path to the source pdf file</param>
+	<param name="fromPageNum">[Optional] the page number (inclusive) to start text extraction </param>
+	<param name="toPageNum">[Optional] the page number (inclusive) to stop text extraction</param>
+	<returns>A string containing the text extracted from the specified pages</returns>
+	<remarks>If fromPageNum is not specified, text extraction will start from page 1. If
+ toPageNum is not specified, text extraction will end at the last page of the source pdf file.</remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.ComparePdfs(System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Textually compare 2 pdf files page by page and write the difference to a text file.
+ </summary>
+	<param name="pdf1">the full path to 1st pdf file</param>
+	<param name="pdf2">the full path to 2nd pdf file</param>
+	<param name="resultFile">the full path to the result file</param>
+	<param name="fromPageNum">page number to start comparing</param>
+	<param name="toPageNum">page number to stop comparing</param>
+	<remarks>If no values are specified for fromPageNum and toPageNum, the sub will
+ compare every page in the input pdfs.</remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.ExtractPdfPage(System.String,System.Int32,System.String)">
+	<summary>
+ Extract a single page from source pdf to a new pdf
+ </summary>
+	<param name="sourcePdf">the full path to source pdf file</param>
+	<param name="pageNumberToExtract">the page number to extract</param>
+	<param name="outPdf">the full path for the output pdf</param>
+	<remarks></remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.ExtractPdfPagef(System.String,System.Int32[],System.String)">
+	<summary>
+ Extract selected pages from a source pdf to a new pdf
+ </summary>
+	<param name="sourcePdf">the full path to source pdf to a new pdf</param>
+	<param name="pageNumbersToExtract">the page numbers to extract (i.e {1, 3, 5, 6})</param>
+	<param name="outPdf">The full path for the output pdf</param>
+	<remarks>The output pdf will contains the extracted pages in the order of the page numbers listed
+ in pageNumbersToExtract parameter.</remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.ExtractPdfPages(System.String,System.Int32[],System.String)">
+	<summary>
+ Extract pages from an existing pdf file to create a new pdf with bookmarks preserved
+ </summary>
+	<param name="sourcePdf">full path to sthe source pdf</param>
+	<param name="pageNumbersToExtract">an integer array containing the page number of the pages to be extracted</param>
+	<param name="outPdf">the full path to the output pdf</param>
+	<remarks></remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.SplitPdfByParts(System.String,System.Int32,System.String)">
+	<summary>
+ Split a single pdf file into multiple pdfs with equal number of pages.
+ </summary>
+	<param name="sourcePdf">the full path to the source pdf</param>
+	<param name="parts">the number of splitted pdfs to split to</param>
+	<param name="baseNameOutPdf">the base file name (full path) for splitted pdfs.
+ The actual output pdf file names will be serialized. </param>
+	<remarks>The last splitted pdf may not have
+ the same number of pages as the rest, depending on the combination of number of pages in the source pdf 
+ and the number of parts to be splitted. For example, if the original pdf has 9 pages and it is to be 
+ splitted into 5 parts, the last splitted pdf will have only 1 page while all others have 2 pages.</remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.SplitPdfByPages(System.String,System.Int32,System.String)">
+	<summary>
+ Split source pdf into multiple pdfs with specifc number of pages
+ </summary>
+	<param name="sourcePdf">the full path to source pdf</param>
+	<param name="numOfPages">the number of pages each splitted pdf should contain</param>
+	<param name="baseNameOutPdf">the base file name (full path) for splitted pdfs.
+ The actual output pdf file names will be serialized. </param>
+	<remarks>The last splitted pdf may not have
+ the same number of pages as the rest, depending on the combination of number of pages in the source pdf 
+ and the number of target pages in each splitted pdf. For example, if the original pdf has 9 pages and it is to be 
+ splitted with 2 pages for each pdf, the last splitted pdf will have only 1 page while all others have 2 pages.</remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.ConvertToIntegerArray(System.String)">
+	<summary>
+ Helper function to convert a csv integer string to an integer array
+ </summary>
+	<param name="csvNumbers">the integer string in csv format (ex: "1, 5, 7, 4")</param>
+	<returns>Integer array converted from the csv string (ex: {1, 5, 7, 4}</returns>
+	<remarks>No error checking/handling. If the input string contains non-numeric values
+ the function will crash. It's up to you to handle this error.</remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.AddWatermarkImage(System.String,System.String,System.String)">
+	<summary>
+ Add and image as the watermark on each page of the source pdf to create a new pdf with watermark
+ </summary>
+	<param name="sourceFile">the full path to the source pdf</param>
+	<param name="outputFile">the full path where the watermarked pdf will be saved to</param>
+	<param name="watermarkImage">the full path to the image file to use as the watermark</param>
+	<remarks>The watermark image will be align in the center of each page</remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.AddWatermarkText(System.String,System.String,System.String[],iTextSharp.text.pdf.BaseFont,System.Single,iTextSharp.text.BaseColor,System.Single,System.Single)">
+	<summary>
+ Add text as the watermark to each page of the source pdf to create a new pdf with text watermark
+ </summary>
+	<param name="sourceFile">the full path to the source pdf file</param>
+	<param name="outputFile">the full path where the watermarked pdf file will be saved to</param>
+	<param name="watermarkText">the string array conntaining the text to use as the watermark. Each element is treated as a line in the watermark</param>
+	<param name="watermarkFont">the font to use for the watermark. The default font is HELVETICA</param>
+	<param name="watermarkFontSize">the size of the font. The default size is 48</param>
+	<param name="watermarkFontColor">the color of the watermark. The default color is blue</param>
+	<param name="watermarkFontOpacity">the opacity of the watermark. The default opacity is 0.3</param>
+	<param name="watermarkRotation">the rotation in degree of the watermark. The default rotation is 45 degree</param>
+	<remarks></remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.MergePdfFilesWithBookmarks(System.String[],System.String)">
+	<summary>
+ Merge multiple pdf files into 1 preserving all bookmarks
+ </summary>
+	<param name="sourcePdfs">string array containing full path to the source pdf's</param>
+	<param name="outputPdf">full path to the output (merged) pdf</param>
+	<returns>True if successful. False otherwise.</returns>
+	<remarks></remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.MergePdfFiles(System.String[],System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Merge multiple pdf files into a single pdf
+ </summary>
+	<param name="pdfFiles">string array containing full paths to the pdf files to be merged</param>
+	<param name="outputPath">full path to the merged output pdf</param>
+	<param name="authorName">Author's name.</param>
+	<param name="creatorName">Creator's name</param>
+	<param name="subject">Subject field</param>
+	<param name="title">Title field</param>
+	<param name="keywords">keywords field</param>
+	<returns>True if the merging is successful, False otherwise.</returns>
+	<remarks>All optional paramters are used for the output pdf metadata.
+ You can see a pdf metada by going to the PDF tab of the file's Property window.</remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.FillAcroForm(System.String,System.Data.DataRow,System.String)">
+	<summary>
+ Fill in an AcroForm
+ </summary>
+	<param name="sourcePdf">the full path to the pdf form file</param>
+	<param name="fieldData">a datarow where the column names are the field names in the pdf,
+ and the value for that field is the value of the cell in that column</param>
+	<param name="outputPdf">the full path of the output file</param>
+	<remarks></remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.ReplacePagesWithBlank(System.String,System.Collections.Generic.List{System.Int32},System.String,System.String)">
+	<summary>
+ Replace specified page(s) in a pdf file with a blank page
+ </summary>
+	<param name="sourcePdf">The source pdf file to have pages replaced</param>
+	<param name="pagesToReplace">List of pages in source pdf to be replaced with blank page</param>
+	<param name="outPdf">The output pdf with pages replaced by blank pages</param>
+	<param name="templatePdf">Optional template pdf to used as replacement page</param>
+	<returns>True if successful, False if failed</returns>
+	<remarks>If the template pdf parameter is left blank, a blank template pdf will be created on the fly
+ and deleted when done</remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.InsertPages(System.String,System.Collections.Generic.Dictionary{System.Int32,iTextSharp.text.pdf.PdfImportedPage},System.String)">
+	<summary>
+ Insert new pages to an existing pdf file
+ </summary>
+	<param name="sourcePdf">The full path to the source pdf</param>
+	<param name="pagesToInsert">The dictionary contains the pages to be inserted in the source pdf. The key is the page number to be inserted. The value is the PdfImportedPage to insert</param>
+	<param name="outPdf">The full path of the resulting output pdf file</param>
+	<returns>True if the operation succeeded. False otherwise.</returns>
+	<remarks>To create the pagesToInsert dictionary, you can use the iTextSharp.text.pdf.PdfCopy class to open
+ an existing pdf file and call the GetImportedPage method</remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.RemovePages(System.String,System.Collections.Generic.List{System.Int32},System.String)">
+	<summary>
+ Remove specified page(s) from a pdf file
+ </summary>
+	<param name="sourcePdf">The source pdf to have pages removed from</param>
+	<param name="pagesToRemove">List of pages to be removed</param>
+	<param name="outputPdf">The output pdf after pages removed</param>
+	<returns>True if successful, false if failed</returns>
+	<remarks></remarks>
+</member><member name="M:AllFoldersandFilesTree.PdfManipulation2.ExtractAndInsertPages(System.String,System.String,System.Collections.Generic.Dictionary{System.Int32,System.Int32},System.String)">
+	<summary>
+ Extract specfied pages from a pdf and insert them to another pdf.
+ </summary>
+	<param name="pdfToExtract">the full path to the source pdf whose the pages are to be extracted from</param>
+	<param name="pdfToInsert">the full path to the source pdf whose extracted pages are to be inserted into</param>
+	<param name="insertionDetails">a dictionary whose key is the page number to be extracted and value is the page number to be inserted</param>
+	<param name="outputPdf">full path to the resulting pdf</param>
+	<returns>True if successful. Otherwise false</returns>
+	<remarks>insertionDetails dictionary example. Let's say you want to extract page # 2 from pdfToExtract file
+ and insert that page as page # 5 in pdfToInsert file. So you will create a dictionary to pass to this function and add
+ an entery to it like this:
+ Dim myDict as New Dictionary(Of Integer, Integer)
+ myDict.Add(2, 5)
+ </remarks>
+</member>
+</members>
+</doc>
